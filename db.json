@@ -1,0 +1,1045 @@
+{
+  "system": "Cardiology",
+  "sections": [
+    {
+      "name": "Anatomy",
+      "questions": [
+        {
+          "id": "A1",
+          "subtopic": "Embryology - Septation",
+          "difficulty": "hard",
+          "question": "A 2-day-old newborn is noted to have a harsh holosystolic murmur at the left sternal border. Echocardiography reveals an opening in the interventricular septum. During which stage of cardiac development does this opening normally close?",
+          "options": {
+            "A": "Formation of the muscular interventricular septum",
+            "B": "Fusion of the aorticopulmonary septum with the muscular ventricular septum",
+            "C": "Growth of endocardial cushions separating atria from ventricles",
+            "D": "Formation of the primitive ventricle",
+            "E": "Development of the bulbus cordis"
+          },
+          "correct_answer": "B",
+          "explanation": "The interventricular foramen normally closes when the aorticopulmonary septum rotates and fuses with the muscular ventricular septum to form the membranous interventricular septum. Failure of this fusion results in a ventricular septal defect (VSD), the most common congenital cardiac anomaly. Option A describes formation of the muscular septum but does not close the foramen. Option C contributes to atrial septation and the membranous septum but is not the primary closure mechanism of the interventricular foramen. Options D and E are earlier stages of heart tube development."
+        },
+        {
+          "id": "A2",
+          "subtopic": "Embryology - Venous system derivatives",
+          "difficulty": "medium",
+          "question": "A 45-year-old man undergoes cardiac surgery. The surgeon needs to cannulate the coronary sinus for retrograde cardioplegia. From which embryonic structure does the coronary sinus derive?",
+          "options": {
+            "A": "Right common cardinal vein",
+            "B": "Left horn of sinus venosus",
+            "C": "Primitive pulmonary vein",
+            "D": "Posterior cardinal vein",
+            "E": "Right anterior cardinal vein"
+          },
+          "correct_answer": "B",
+          "explanation": "The coronary sinus is derived from the left horn of the sinus venosus. The right horn of the sinus venosus forms the smooth part of the right atrium (sinus venarum). The primitive pulmonary vein forms the smooth part of the left atrium. The right common cardinal and anterior cardinal veins contribute to the superior vena cava. Posterior cardinal veins contribute to the inferior vena cava."
+        },
+        {
+          "id": "A3",
+          "subtopic": "Embryology - Aorticopulmonary septum",
+          "difficulty": "hard",
+          "question": "A newborn presents with cyanosis and a single great artery arising from the base of the heart. Echocardiography shows a large ventricular septal defect and no identifiable pulmonary trunk. Failure of which embryonic structure most likely caused this anomaly?",
+          "options": {
+            "A": "Endocardial cushions",
+            "B": "Aorticopulmonary septum",
+            "C": "Bulbus cordis",
+            "D": "Primitive atrium",
+            "E": "Sinus venosus"
+          },
+          "correct_answer": "B",
+          "explanation": "Persistent truncus arteriosus results from failure of the aorticopulmonary septum to form, leading to a single arterial trunk that fails to divide into the ascending aorta and pulmonary trunk. Endocardial cushions contribute to atrial and ventricular septation and valve formation. The bulbus cordis forms the outflow tracts of both ventricles. The primitive atrium forms the trabeculated atria. The sinus venosus forms parts of the right atrium and coronary sinus."
+        },
+        {
+          "id": "A4",
+          "subtopic": "Fetal Circulation - Ductus venosus",
+          "difficulty": "medium",
+          "question": "A fetus at 32 weeks gestation has an intrauterine blood sample obtained from the umbilical vein. What is the approximate partial pressure of oxygen (PO2) in this vessel, and what is the primary fate of this blood?",
+          "options": {
+            "A": "PO2 ~ 15 mmHg; flows directly to the pulmonary trunk via the ductus arteriosus",
+            "B": "PO2 ~ 30 mmHg; conducted via the ductus venosus to the inferior vena cava",
+            "C": "PO2 ~ 60 mmHg; passes through the foramen ovale into the left atrium",
+            "D": "PO2 ~ 80 mmHg; enters the hepatic circulation for processing",
+            "E": "PO2 ~ 45 mmHg; returns to the placenta via the umbilical arteries"
+          },
+          "correct_answer": "B",
+          "explanation": "Blood in the umbilical vein has a PO2 of approximately 30 mmHg and is about 80% saturated with oxygen. It enters the fetus and is conducted via the ductus venosus into the inferior vena cava, bypassing the hepatic circulation. Option A is incorrect because umbilical vein blood is relatively oxygenated and does not go to the pulmonary trunk. Option C overestimates PO2 and describes later shunting through the foramen ovale. Option D is incorrect because most blood bypasses the liver via ductus venosus. Option E describes umbilical artery blood which has low oxygen saturation."
+        },
+        {
+          "id": "A5",
+          "subtopic": "Fetal Circulation - Shunts",
+          "difficulty": "hard",
+          "question": "A newborn with respiratory distress has differential cyanosis with higher oxygen saturation in the upper extremities than the lower extremities. Which fetal structure has most likely failed to close, and what is the direction of shunting?",
+          "options": {
+            "A": "Foramen ovale, right-to-left shunt",
+            "B": "Ductus arteriosus, right-to-left shunt",
+            "C": "Ductus arteriosus, left-to-right shunt",
+            "D": "Ductus venosus, left-to-right shunt",
+            "E": "Foramen ovale, left-to-right shunt"
+          },
+          "correct_answer": "B",
+          "explanation": "Differential cyanosis (higher preductal O2 saturation in upper extremities compared to lower extremities) indicates a patent ductus arteriosus (PDA) with right-to-left shunting. This typically occurs when pulmonary vascular resistance remains elevated after birth (persistent pulmonary hypertension), causing deoxygenated blood to flow from the pulmonary artery into the descending aorta. In a left-to-right PDA, cyanosis is not present. Foramen ovale closure failure causes mixing but not differential cyanosis. Ductus venosus patency does not cause differential cyanosis."
+        },
+        {
+          "id": "A6",
+          "subtopic": "Fetal Derivatives",
+          "difficulty": "medium",
+          "question": "During a cadaver dissection, the medical student identifies a fibrous band connecting the left pulmonary artery to the aortic arch, near the left recurrent laryngeal nerve. What is this structure's fetal origin and postnatal derivative?",
+          "options": {
+            "A": "Foramen ovale → fossa ovalis",
+            "B": "Ductus arteriosus → ligamentum arteriosum",
+            "C": "Ductus venosus → ligamentum venosum",
+            "D": "Umbilical artery → median umbilical ligament",
+            "E": "Umbilical vein → ligamentum teres hepatis"
+          },
+          "correct_answer": "B",
+          "explanation": "The ductus arteriosus normally closes after birth to become the ligamentum arteriosum, which connects the left pulmonary artery to the aortic arch. The left recurrent laryngeal nerve hooks around the ligamentum arteriosum. Option A is the remnant of the foramen ovale. Option C is the remnant of the ductus venosus. Option D is the remnant of the umbilical arteries. Option E is the remnant of the umbilical vein."
+        },
+        {
+          "id": "A7",
+          "subtopic": "Cardiac Anatomy - Chambers",
+          "difficulty": "medium",
+          "question": "A 67-year-old woman with a history of mitral stenosis presents with hoarseness and difficulty swallowing. Esophageal compression is suspected. Which chamber of the heart is most likely enlarged and directly compressing the esophagus?",
+          "options": {
+            "A": "Right atrium",
+            "B": "Right ventricle",
+            "C": "Left atrium",
+            "D": "Left ventricle",
+            "E": "Right atrial appendage"
+          },
+          "correct_answer": "C",
+          "explanation": "The left atrium (LA) is the most posterior part of the heart. LA enlargement, as seen in mitral stenosis, can compress the esophagus (causing dysphagia) and the left recurrent laryngeal nerve (causing hoarseness, Ortner syndrome). The right ventricle is the most anterior part and most commonly injured in trauma. The left ventricle forms about two-thirds of the inferior cardiac surface. The right atrium and its appendage are not posterior enough to cause esophageal compression."
+        },
+        {
+          "id": "A8",
+          "subtopic": "Coronary Circulation - Dominance",
+          "difficulty": "medium",
+          "question": "A patient undergoing coronary angiography has a posterior descending artery (PDA) that arises from the right coronary artery (RCA). What type of coronary circulation does this patient have, and which structure does the RCA NOT typically supply?",
+          "options": {
+            "A": "Left-dominant; RCA supplies the AV node",
+            "B": "Right-dominant; RCA supplies the SA node",
+            "C": "Right-dominant; RCA supplies the posteromedial papillary muscle",
+            "D": "Left-dominant; RCA supplies the anterior 2/3 of the interventricular septum",
+            "E": "Codominant; RCA supplies the posterior 1/3 of the interventricular septum"
+          },
+          "correct_answer": "B",
+          "explanation": "Right-dominant circulation (most common, ~70%) is defined by the PDA arising from the RCA. The RCA typically supplies the AV node (in 90% of individuals) and the SA node (in 60%). However, the RCA does NOT supply the anterior 2/3 of the interventricular septum; that is supplied by the LAD. Option A is incorrect because left-dominant circulation has PDA from LCX. Option C is true for right-dominant circulation. Option D is false because left-dominant circulation would have PDA from LCX, and LAD supplies anterior septum. Option E describes codominant circulation."
+        },
+        {
+          "id": "A9",
+          "subtopic": "Coronary Circulation - LAD occlusion",
+          "difficulty": "hard",
+          "question": "A 55-year-old man with chest pain is found to have an acute occlusion of the left anterior descending (LAD) artery. Which of the following structures is most likely to be affected by this occlusion?",
+          "options": {
+            "A": "Posterior 1/3 of the interventricular septum",
+            "B": "Posteromedial papillary muscle",
+            "C": "Anterolateral papillary muscle",
+            "D": "AV node",
+            "E": "SA node"
+          },
+          "correct_answer": "C",
+          "explanation": "The LAD and its branches supply the anterior 2/3 of the interventricular septum, the anterolateral papillary muscle, and the anterior surface of the left ventricle. The LAD is the most commonly occluded coronary artery. The posterior 1/3 of the interventricular septum and posteromedial papillary muscle are supplied by the PDA (usually from RCA). The AV node is usually supplied by the RCA (in 90%). The SA node is usually supplied by the RCA (60%) or LCX (40%)."
+        },
+        {
+          "id": "A10",
+          "subtopic": "Coronary Circulation - Timing of flow",
+          "difficulty": "medium",
+          "question": "A medical student is reviewing coronary blood flow dynamics. During which phase of the cardiac cycle does blood flow to the left ventricle peak?",
+          "options": {
+            "A": "Early systole",
+            "B": "Late systole",
+            "C": "Early diastole",
+            "D": "Late diastole",
+            "E": "Isovolumetric contraction"
+          },
+          "correct_answer": "C",
+          "explanation": "Coronary blood flow to the left ventricle and interventricular septum peaks in early diastole. During systole, the contraction of the left ventricular myocardium compresses the intramural coronary vessels, impeding flow. In diastole, the myocardium relaxes, allowing maximal flow. The right ventricle has less systolic compression and receives flow during both systole and diastole. Isovolumetric contraction is a high-oxygen-demand phase but flow is low due to compression."
+        },
+        {
+          "id": "A11",
+          "subtopic": "Cardiac Anatomy - Surfaces",
+          "difficulty": "easy",
+          "question": "A 22-year-old man sustains blunt chest trauma in a motor vehicle accident. Which cardiac chamber is most frequently injured due to its anterior position?",
+          "options": {
+            "A": "Left atrium",
+            "B": "Left ventricle",
+            "C": "Right atrium",
+            "D": "Right ventricle",
+            "E": "Aortic root"
+          },
+          "correct_answer": "D",
+          "explanation": "The right ventricle (RV) is the most anterior part of the heart and therefore is most commonly injured in blunt chest trauma. The left ventricle is posterior and forms about two-thirds of the inferior (diaphragmatic) cardiac surface. The left atrium is the most posterior chamber. The right atrium is on the right border."
+        },
+        {
+          "id": "A12",
+          "subtopic": "Embryonic Derivatives - Table",
+          "difficulty": "hard",
+          "question": "Match the following embryonic structure with its adult derivative: Bulbus cordis.",
+          "options": {
+            "A": "Trabeculated part of left and right ventricles",
+            "B": "Smooth parts (outflow tract) of left and right ventricles",
+            "C": "Smooth part of right atrium (sinus venarum)",
+            "D": "Ascending aorta and pulmonary trunk",
+            "E": "Atrial septum and atrioventricular valves"
+          },
+          "correct_answer": "B",
+          "explanation": "The bulbus cordis gives rise to the smooth parts (outflow tract) of the left and right ventricles. The primitive ventricle gives rise to the trabeculated parts of the ventricles. The right horn of sinus venosus gives rise to the smooth part of the right atrium. The truncus arteriosus gives rise to the ascending aorta and pulmonary trunk. The endocardial cushions contribute to the atrial septum, membranous interventricular septum, and AV/semilunar valves."
+        }
+      ]
+    },
+    {
+      "name": "Physiology",
+      "questions": [
+        {
+          "id": "P1",
+          "subtopic": "Cardiac Output - Variables",
+          "difficulty": "medium",
+          "question": "A 65-year-old man with chronic heart failure is started on digoxin. Which of the following best describes the direct effect of digoxin on myocardial contractility and the intracellular ion changes responsible?",
+          "options": {
+            "A": "Increased contractility due to increased Ca2+ efflux via Na+/Ca2+ exchanger",
+            "B": "Increased contractility due to inhibition of Na+/K+ ATPase leading to increased intracellular Na+ and secondary increased Ca2+",
+            "C": "Decreased contractility due to β1-receptor blockade",
+            "D": "Increased contractility due to activation of protein kinase A and increased Ca2+ channel phosphorylation",
+            "E": "Decreased contractility due to increased intracellular Ca2+ sequestration in sarcoplasmic reticulum"
+          },
+          "correct_answer": "B",
+          "explanation": "Digoxin inhibits Na+/K+ ATPase, leading to increased intracellular Na+. This reduces the activity of the Na+/Ca2+ exchanger (which normally exports Ca2+ in exchange for Na+), resulting in increased intracellular Ca2+ and positive inotropy. Option A is incorrect because the exchanger is inhibited, not increased. Option C describes β-blockers. Option D describes catecholamine effects via β1 receptor. Option E is opposite of digoxin's effect."
+        },
+        {
+          "id": "P2",
+          "subtopic": "Cardiac Output - Preload and Afterload",
+          "difficulty": "medium",
+          "question": "A 58-year-old woman with hypertension and chronic kidney disease is prescribed hydralazine for blood pressure control. How does hydralazine affect cardiac preload and afterload?",
+          "options": {
+            "A": "Decreases preload only",
+            "B": "Decreases afterload only",
+            "C": "Decreases both preload and afterload",
+            "D": "Increases preload and decreases afterload",
+            "E": "Has no effect on preload or afterload"
+          },
+          "correct_answer": "B",
+          "explanation": "Hydralazine is an arterial vasodilator that primarily decreases afterload (systemic vascular resistance). It has minimal direct effect on venous tone, so preload is not significantly decreased. In contrast, ACE inhibitors and ARBs decrease both preload and afterload (venodilation and arteriodilation). Nitroglycerin predominantly decreases preload (venodilator). Options A, C, D, E are incorrect based on the pharmacology of hydralazine."
+        },
+        {
+          "id": "P3",
+          "subtopic": "Laplace's Law",
+          "difficulty": "hard",
+          "question": "A 72-year-old man with long-standing hypertension develops left ventricular hypertrophy. According to Laplace's law, how does the heart compensate for increased afterload to maintain wall tension?",
+          "options": {
+            "A": "Increased heart rate",
+            "B": "Increased ventricular diameter",
+            "C": "Increased wall thickness (hypertrophy)",
+            "D": "Decreased contractility",
+            "E": "Decreased preload"
+          },
+          "correct_answer": "C",
+          "explanation": "Laplace's law states: Wall tension = Pressure × Radius / (2 × Wall thickness). Chronic hypertension increases intraventricular pressure (afterload). To normalize wall stress, the left ventricle undergoes concentric hypertrophy (increased wall thickness), which reduces wall tension for a given pressure. Increased ventricular diameter would worsen wall tension. Heart rate and contractility changes do not directly affect Laplace's law in this compensatory manner."
+        },
+        {
+          "id": "P4",
+          "subtopic": "Cardiac Output Equations",
+          "difficulty": "medium",
+          "question": "A 50-year-old man with aortic stenosis has a systolic blood pressure of 130 mmHg and diastolic blood pressure of 80 mmHg at rest. What is his mean arterial pressure (MAP) and pulse pressure (PP)?",
+          "options": {
+            "A": "MAP = 97 mmHg, PP = 50 mmHg",
+            "B": "MAP = 100 mmHg, PP = 50 mmHg",
+            "C": "MAP = 87 mmHg, PP = 30 mmHg",
+            "D": "MAP = 110 mmHg, PP = 40 mmHg",
+            "E": "MAP = 93 mmHg, PP = 60 mmHg"
+          },
+          "correct_answer": "A",
+          "explanation": "Pulse pressure (PP) = SBP - DBP = 130 - 80 = 50 mmHg. Mean arterial pressure (MAP) at resting heart rate is calculated as DBP + 1/3 PP = 80 + (1/3 × 50) = 80 + 16.7 = 96.7 mmHg, approximately 97 mmHg. Option B overestimates MAP. Option C underestimates both. Option D overestimates MAP. Option E has incorrect PP."
+        },
+        {
+          "id": "P5",
+          "subtopic": "Starling Curves",
+          "difficulty": "medium",
+          "question": "A 62-year-old man with non-ischemic cardiomyopathy has a reduced ejection fraction. His cardiologist starts him on dobutamine. How does dobutamine alter the Frank-Starling curve?",
+          "options": {
+            "A": "Shifts the curve downward and to the right (decreased contractility)",
+            "B": "Shifts the curve upward and to the left (increased contractility)",
+            "C": "Moves along the same curve to a higher preload",
+            "D": "Moves along the same curve to a lower preload",
+            "E": "Shifts the curve downward and to the left (decreased contractility)"
+          },
+          "correct_answer": "B",
+          "explanation": "Dobutamine is a β1-adrenergic agonist that increases contractility. On the Frank-Starling curve, increased contractility shifts the curve upward and to the left, meaning that for any given end-diastolic volume (preload), stroke volume is higher. Option A describes decreased contractility (e.g., beta-blocker, heart failure). Options C and D describe changes in preload without change in contractility."
+        },
+        {
+          "id": "P6",
+          "subtopic": "Resistance and Flow",
+          "difficulty": "hard",
+          "question": "A patient has a 50% reduction in the radius of a small arteriole due to atherosclerosis. Assuming laminar flow and constant pressure gradient, what is the expected change in volumetric flow rate through that vessel?",
+          "options": {
+            "A": "Decreased by 50%",
+            "B": "Decreased by 75%",
+            "C": "Decreased by 93.75%",
+            "D": "Increased by 50%",
+            "E": "No change"
+          },
+          "correct_answer": "C",
+          "explanation": "According to Poiseuille's law, flow (Q) is proportional to r^4. If radius is halved (reduced by 50%), new r = 0.5 × original r. New flow ∝ (0.5)^4 = 0.0625 of original flow, which is a 93.75% decrease (1 - 0.0625 = 0.9375). Options A, B, D, E do not account for the fourth-power relationship. This principle explains why small changes in arteriolar radius dramatically affect resistance and flow."
+        },
+        {
+          "id": "P7",
+          "subtopic": "Cardiac and Vascular Function Curves",
+          "difficulty": "hard",
+          "question": "A patient with decompensated heart failure receives a fluid bolus. On the combined cardiac output (CO) vs right atrial pressure (RAP) graph (cardiac and vascular function curves), which of the following best represents the effect of fluid infusion?",
+          "options": {
+            "A": "Upward shift of the cardiac function curve (increased inotropy)",
+            "B": "Downward shift of the vascular function curve (decreased venous return)",
+            "C": "Rightward shift along the cardiac function curve (increased preload)",
+            "D": "Leftward shift of the vascular function curve (increased resistance)",
+            "E": "Downward shift of the cardiac function curve (decreased inotropy)"
+          },
+          "correct_answer": "C",
+          "explanation": "A fluid bolus increases circulating volume, which increases venous return and thus right atrial pressure (preload). This causes a movement rightward along the cardiac function curve (Starling curve), increasing stroke volume and CO. It does not shift the cardiac function curve (which would require a change in contractility). The vascular function curve shifts upward/rightward (increased venous return at any given RAP) not downward."
+        },
+        {
+          "id": "P8",
+          "subtopic": "Pressure-Volume Loop - Isovolumetric contraction",
+          "difficulty": "medium",
+          "question": "During which phase of the left ventricular pressure-volume loop is oxygen consumption the highest?",
+          "options": {
+            "A": "Isovolumetric relaxation",
+            "B": "Rapid filling",
+            "C": "Isovolumetric contraction",
+            "D": "Reduced filling",
+            "E": "Systolic ejection"
+          },
+          "correct_answer": "C",
+          "explanation": "Isovolumetric contraction is the period between mitral valve closing and aortic valve opening. During this phase, the ventricle generates high pressure without any change in volume, requiring significant energy and oxygen consumption. It is the highest O2-consuming phase. Systolic ejection also consumes O2 but less than isovolumetric contraction. Isovolumetric relaxation and filling phases have lower O2 demand."
+        },
+        {
+          "id": "P9",
+          "subtopic": "Heart Sounds - S3",
+          "difficulty": "medium",
+          "question": "A 28-year-old pregnant woman at 32 weeks gestation is noted to have an extra heart sound in early diastole. The sound is best heard at the apex with the patient in the left lateral decubitus position. What is the most likely explanation for this finding?",
+          "options": {
+            "A": "Turbulence caused by blood entering a stiffened left ventricle (S4)",
+            "B": "Turbulence caused by blood from the left atrium mixing with increased end-systolic volume (S3)",
+            "C": "Closure of the aortic and pulmonary valves (S2)",
+            "D": "Closure of the mitral and tricuspid valves (S1)",
+            "E": "Abrupt halt of mitral valve leaflet motion in diastole (opening snap)"
+          },
+          "correct_answer": "B",
+          "explanation": "An S3 heart sound occurs in early diastole during the rapid ventricular filling phase. It is caused by turbulence as blood from the atrium mixes with increased end-systolic volume in a dilated or volume-overloaded ventricle. It can be normal in children, young adults, athletes, and pregnancy. Option A describes S4 (late diastole, atrial kick). Option C is S2. Option D is S1. Option E is an opening snap in mitral stenosis."
+        },
+        {
+          "id": "P10",
+          "subtopic": "Jugular Venous Pulse",
+          "difficulty": "hard",
+          "question": "A 55-year-old man with constrictive pericarditis has a prominent y descent on his jugular venous pulse (JVP) waveform. Which hemodynamic event corresponds to the y descent?",
+          "options": {
+            "A": "Atrial contraction",
+            "B": "Tricuspid valve bulging into the right atrium during right ventricular contraction",
+            "C": "Right atrial emptying into the right ventricle",
+            "D": "Atrial relaxation and downward displacement of the closed tricuspid valve",
+            "E": "Right atrial pressure increase due to venous return against a closed tricuspid valve"
+          },
+          "correct_answer": "C",
+          "explanation": "The y descent on JVP corresponds to rapid emptying of the right atrium into the right ventricle after the tricuspid valve opens. It is prominent in constrictive pericarditis and absent in cardiac tamponade. Option A describes the a wave. Option B describes the c wave. Option D describes the x descent. Option E describes the v wave."
+        },
+        {
+          "id": "P11",
+          "subtopic": "Action Potential - Ventricular vs Pacemaker",
+          "difficulty": "hard",
+          "question": "A patient with sick sinus syndrome has an abnormally slow heart rate. Which phase of the pacemaker action potential is primarily responsible for the spontaneous depolarization that determines the heart rate, and what ion current mediates it?",
+          "options": {
+            "A": "Phase 0, L-type Ca2+ current",
+            "B": "Phase 3, delayed rectifier K+ current",
+            "C": "Phase 4, If ('funny') current",
+            "D": "Phase 1, transient outward K+ current",
+            "E": "Phase 2, Ca2+ influx balanced by K+ efflux"
+          },
+          "correct_answer": "C",
+          "explanation": "Phase 4 (slow spontaneous diastolic depolarization) in pacemaker cells of the SA and AV nodes is responsible for automaticity. The If ('funny') current, a mixed Na+/K+ inward current, drives this depolarization. The slope of phase 4 determines the heart rate. Sympathetic stimulation increases the slope (increased HR), while vagal stimulation decreases it. Options A, B, D, E describe phases of ventricular action potential or other currents not primarily responsible for automaticity."
+        },
+        {
+          "id": "P12",
+          "subtopic": "ECG - Intervals and Waves",
+          "difficulty": "medium",
+          "question": "A 42-year-old woman with chronic fatigue has an ECG showing a prolonged QT interval. She is started on a medication that prolongs the QT interval further. Which ECG wave or interval represents ventricular repolarization?",
+          "options": {
+            "A": "P wave",
+            "B": "PR interval",
+            "C": "QRS complex",
+            "D": "T wave",
+            "E": "U wave"
+          },
+          "correct_answer": "D",
+          "explanation": "The T wave represents ventricular repolarization. The P wave represents atrial depolarization. The PR interval is from atrial depolarization onset to ventricular depolarization onset. The QRS complex represents ventricular depolarization. The U wave is of uncertain origin but prominent in hypokalemia."
+        },
+        {
+          "id": "P13",
+          "subtopic": "Natriuretic Peptides",
+          "difficulty": "medium",
+          "question": "A 70-year-old man with dyspnea on exertion has a B-type natriuretic peptide (BNP) level drawn. The result is very low (<20 pg/mL). Which of the following is the most appropriate interpretation regarding the diagnosis of heart failure?",
+          "options": {
+            "A": "Heart failure is unlikely (excellent negative predictive value)",
+            "B": "Heart failure is highly likely (excellent positive predictive value)",
+            "C": "The patient likely has right heart failure only",
+            "D": "The patient must have atrial fibrillation causing false-low BNP",
+            "E": "BNP is not useful in this setting"
+          },
+          "correct_answer": "A",
+          "explanation": "BNP has a very good negative predictive value for heart failure. A low BNP makes acute decompensated heart failure unlikely. BNP is released from ventricular myocytes in response to increased wall tension. Elevated BNP supports a diagnosis of heart failure, but low BNP effectively rules it out. Options B, C, D, E are incorrect; BNP is useful and low levels argue against significant HF."
+        },
+        {
+          "id": "P14",
+          "subtopic": "Baroreceptors and Chemoreceptors",
+          "difficulty": "hard",
+          "question": "A patient with chronic obstructive pulmonary disease (COPD) and chronic hypercapnia has become dependent on hypoxic drive to breathe. Which chemoreceptors become the primary drivers of respiration in this setting, and what stimulus activates them?",
+          "options": {
+            "A": "Central chemoreceptors, stimulated by decreased pH of brain interstitial fluid",
+            "B": "Peripheral chemoreceptors (carotid and aortic bodies), stimulated by low PO2 (<60 mmHg)",
+            "C": "Central chemoreceptors, stimulated directly by hypercapnia",
+            "D": "Peripheral chemoreceptors, stimulated by increased pH",
+            "E": "Baroreceptors, stimulated by hypotension"
+          },
+          "correct_answer": "B",
+          "explanation": "In chronic hypercapnia (e.g., COPD), central chemoreceptors become less responsive to elevated CO2 (due to compensatory HCO3- buffering). The respiratory drive then shifts to peripheral chemoreceptors (carotid and aortic bodies), which are sensitive to hypoxemia (PO2 <60 mmHg). Peripheral chemoreceptors also respond to increased PCO2 and decreased pH but their hypoxic response becomes critical when central drive is blunted. Central chemoreceptors respond to changes in pH of brain interstitial fluid (indirectly to CO2 via H+), but they become desensitized in chronic hypercapnia."
+        },
+        {
+          "id": "P15",
+          "subtopic": "Autoregulation",
+          "difficulty": "medium",
+          "question": "A researcher is studying organ blood flow autoregulation. In which of the following organs does hypoxia cause vasoconstriction rather than vasodilation?",
+          "options": {
+            "A": "Brain",
+            "B": "Heart",
+            "C": "Lungs",
+            "D": "Kidneys",
+            "E": "Skeletal muscle"
+          },
+          "correct_answer": "C",
+          "explanation": "In the lungs, hypoxia causes vasoconstriction (hypoxic pulmonary vasoconstriction), which diverts blood flow away from poorly ventilated alveoli to improve ventilation-perfusion matching. In the brain, heart, skeletal muscle, and kidneys, hypoxia causes vasodilation (or metabolic vasodilation) to increase oxygen delivery. This unique feature of pulmonary circulation is opposite to most other vascular beds."
+        },
+        {
+          "id": "P16",
+          "subtopic": "Starling Forces",
+          "difficulty": "hard",
+          "question": "A 55-year-old man with cirrhosis and ascites has low plasma oncotic pressure (πc) due to decreased albumin synthesis. Which Starling force change would most directly lead to edema formation in the capillaries?",
+          "options": {
+            "A": "Increased capillary hydrostatic pressure (Pc)",
+            "B": "Decreased interstitial hydrostatic pressure (Pi)",
+            "C": "Decreased plasma oncotic pressure (πc)",
+            "D": "Increased interstitial fluid oncotic pressure (πi)",
+            "E": "Decreased capillary permeability (Kf)"
+          },
+          "correct_answer": "C",
+          "explanation": "Decreased plasma oncotic pressure (πc) reduces the osmotic force pulling fluid back into the capillary, resulting in net fluid outflow (edema). This occurs in nephrotic syndrome, liver failure, and protein malnutrition. Increased Pc (heart failure) also causes edema. Increased πi (lymphatic blockage) or increased Kf (inflammation, burns) can also cause edema. Decreased Pi is not a common cause of edema."
+        },
+        {
+          "id": "P17",
+          "subtopic": "Heart Murmurs - Aortic Stenosis",
+          "difficulty": "medium",
+          "question": "A 68-year-old man presents with syncope during exercise and a systolic ejection murmur that radiates to the carotids. His pulse is weak and delayed (pulsus parvus et tardus). Which of the following murmurs is most consistent with these findings?",
+          "options": {
+            "A": "Crescendo-decrescendo murmur at the right upper sternal border",
+            "B": "Holosystolic, high-pitched murmur at the apex radiating to axilla",
+            "C": "Late systolic murmur with midsystolic click at the apex",
+            "D": "Early diastolic decrescendo murmur at the left sternal border",
+            "E": "Continuous 'machinery' murmur at the left infraclavicular area"
+          },
+          "correct_answer": "A",
+          "explanation": "Aortic stenosis (AS) typically presents with a crescendo-decrescendo ejection murmur heard best at the right upper sternal border (aortic area) that radiates to the carotids. Pulsus parvus et tardus (weak, delayed carotid upstroke) is classic. Syncope, angina, and dyspnea on exertion (SAD) are cardinal symptoms. Option B is mitral regurgitation. Option C is mitral valve prolapse. Option D is aortic regurgitation. Option E is patent ductus arteriosus."
+        },
+        {
+          "id": "P18",
+          "subtopic": "Heart Murmurs - Mitral Stenosis",
+          "difficulty": "hard",
+          "question": "A 45-year-old woman with a history of rheumatic fever as a child presents with dyspnea on exertion and a rumbling mid-diastolic murmur. An opening snap (OS) is heard. The interval between S2 and the OS correlates with which of the following?",
+          "options": {
+            "A": "Severity of aortic stenosis",
+            "B": "Severity of mitral stenosis (shorter interval = more severe)",
+            "C": "Presence of pulmonary hypertension",
+            "D": "Left ventricular ejection fraction",
+            "E": "Severity of mitral regurgitation"
+          },
+          "correct_answer": "B",
+          "explanation": "In mitral stenosis, the opening snap (OS) occurs when the fused mitral valve leaflets abruptly halt during diastole. The time from S2 to OS (S2-OS interval) is inversely related to the severity of mitral stenosis: the more severe the stenosis, the higher the left atrial pressure, and the sooner the OS occurs after S2 (shorter interval). Option A is incorrect; AS does not produce an OS. Options C, D, E are not directly correlated with the S2-OS interval in MS."
+        },
+        {
+          "id": "P19",
+          "subtopic": "Heart Murmurs - PDA",
+          "difficulty": "medium",
+          "question": "A premature infant is noted to have a continuous 'machinery' murmur best heard at the left infraclavicular area. Which of the following pharmacologic agents would be most appropriate to promote closure of this structure?",
+          "options": {
+            "A": "Prostaglandin E1",
+            "B": "Prostaglandin E2",
+            "C": "Indomethacin",
+            "D": "Alprostadil",
+            "E": "Epinephrine"
+          },
+          "correct_answer": "C",
+          "explanation": "The murmur describes a patent ductus arteriosus (PDA). Indomethacin (an NSAID) inhibits prostaglandin synthesis, promoting closure of the PDA. Prostaglandins E1 and E2 (alprostadil is PGE1) keep the PDA open and are used in ductal-dependent congenital heart diseases to maintain patency. Epinephrine has no direct role in PDA closure."
+        }
+      ]
+    },
+    {
+      "name": "Pathology",
+      "questions": [
+        {
+          "id": "PA1",
+          "subtopic": "Congenital Heart Disease - Right-to-Left Shunts (5 T's)",
+          "difficulty": "hard",
+          "question": "A newborn presents with cyanosis immediately after birth. Echocardiography reveals a single great artery arising from the base of the heart, a large ventricular septal defect, and no identifiable pulmonary trunk. Which of the '5 T's' of early cyanotic congenital heart disease is most likely?",
+          "options": {
+            "A": "Transposition of the great arteries",
+            "B": "Tricuspid atresia",
+            "C": "Truncus arteriosus",
+            "D": "Tetralogy of Fallot",
+            "E": "Total anomalous pulmonary venous return"
+          },
+          "correct_answer": "C",
+          "explanation": "Persistent truncus arteriosus is characterized by a single arterial trunk (failure of aorticopulmonary septum formation) and an almost always associated VSD. It is one of the '5 T's' of early cyanosis (blue babies). Transposition has two switched great vessels. Tricuspid atresia has absent tricuspid valve. Tetralogy has four features including pulmonary stenosis. TAPVR has pulmonary veins draining into the right heart."
+        },
+        {
+          "id": "PA2",
+          "subtopic": "Tetralogy of Fallot",
+          "difficulty": "medium",
+          "question": "A 3-year-old child becomes cyanotic and squats during a crying episode. Which physiologic change caused by squatting improves the child's cyanosis?",
+          "options": {
+            "A": "Decreased systemic vascular resistance (SVR)",
+            "B": "Increased systemic vascular resistance (SVR)",
+            "C": "Decreased right-to-left shunt",
+            "D": "Increased pulmonary blood flow",
+            "E": "Decreased right ventricular outflow obstruction"
+          },
+          "correct_answer": "B",
+          "explanation": "Squatting increases systemic vascular resistance (SVR), which reduces the right-to-left shunt across the VSD in Tetralogy of Fallot. This increases blood flow to the lungs and improves oxygenation. Decreased SVR would worsen right-to-left shunting and cyanosis. Squatting does not directly change RV outflow obstruction or increase pulmonary flow by other mechanisms."
+        },
+        {
+          "id": "PA3",
+          "subtopic": "Transposition of Great Arteries",
+          "difficulty": "hard",
+          "question": "A 2-day-old infant has severe cyanosis. Echocardiography shows the aorta arising from the right ventricle and the pulmonary trunk from the left ventricle. Which of the following is necessary for survival beyond the first few months without surgical intervention?",
+          "options": {
+            "A": "Intact interventricular septum",
+            "B": "Ductus arteriosus closure",
+            "C": "Presence of a shunt (ASD, VSD, or PDA)",
+            "D": "Concurrent truncus arteriosus",
+            "E": "Pulmonary stenosis"
+          },
+          "correct_answer": "C",
+          "explanation": "D-transposition of the great arteries (aorta from RV, pulmonary trunk from LV) creates two parallel circulations. Survival requires mixing of oxygenated and deoxygenated blood via a shunt such as an atrial septal defect (ASD), ventricular septal defect (VSD), or patent ductus arteriosus (PDA). Without a shunt, the condition is incompatible with life. Options A, B, D, E would not allow adequate mixing."
+        },
+        {
+          "id": "PA4",
+          "subtopic": "Ebstein Anomaly",
+          "difficulty": "medium",
+          "question": "A newborn has cyanosis and right-sided heart failure. Echocardiography shows apical displacement of the tricuspid valve leaflets into the right ventricle, creating an 'atrialized' portion of the ventricle. The mother's prenatal history is significant for which medication exposure?",
+          "options": {
+            "A": "Warfarin",
+            "B": "Lithium",
+            "C": "Phenytoin",
+            "D": "Valproic acid",
+            "E": "Isotretinoin"
+          },
+          "correct_answer": "B",
+          "explanation": "Ebstein anomaly (downward displacement of tricuspid valve into RV) is associated with maternal lithium use during pregnancy. It also can cause accessory conduction pathways (e.g., Wolff-Parkinson-White). The other medications are associated with different congenital anomalies but not Ebstein anomaly."
+        },
+        {
+          "id": "PA5",
+          "subtopic": "Ventricular Septal Defect",
+          "difficulty": "medium",
+          "question": "A 6-month-old infant has a harsh holosystolic murmur at the left sternal border. The infant is asymptomatic and growing well. An echocardiogram shows a small ventricular septal defect (VSD). What is the most likely outcome of this defect?",
+          "options": {
+            "A": "Progression to Eisenmenger syndrome",
+            "B": "Spontaneous closure by 1 year of age",
+            "C": "Development of aortic regurgitation",
+            "D": "Need for surgical repair within 6 months",
+            "E": "Progressive right ventricular hypertrophy"
+          },
+          "correct_answer": "B",
+          "explanation": "Most small VSDs spontaneously close during the first year of life, especially muscular defects. Larger defects may not close and can lead to heart failure or Eisenmenger syndrome. Option A occurs in uncorrected large shunts over many years. Option C is not typical for isolated VSD. Option D is reserved for large defects with failure to thrive or pulmonary hypertension. Option E is not the most likely outcome."
+        },
+        {
+          "id": "PA6",
+          "subtopic": "Atrial Septal Defect",
+          "difficulty": "hard",
+          "question": "A 35-year-old woman presents with a systolic ejection murmur and a wide, fixed split S2 on auscultation. Echocardiography reveals an ostium secundum atrial septal defect (ASD). Which of the following findings would be expected on cardiac catheterization?",
+          "options": {
+            "A": "Decreased oxygen saturation in the right atrium",
+            "B": "Increased oxygen saturation in the right atrium",
+            "C": "Decreased oxygen saturation in the left atrium",
+            "D": "Increased oxygen saturation in the pulmonary artery",
+            "E": "Equal oxygen saturations in all chambers"
+          },
+          "correct_answer": "D",
+          "explanation": "In an ASD, oxygenated blood from the left atrium shunts into the right atrium, causing increased oxygen saturation in the right atrium, right ventricle, and pulmonary artery. Option B is true for RA but option D (increased PA saturation) is also true; however, the classic finding is a 'step-up' in O2 saturation at the RA level. The question asks for what is expected on catheterization; increased PA saturation reflects the shunt. Option A and C are opposite. Option E is not seen."
+        },
+        {
+          "id": "PA7",
+          "subtopic": "Eisenmenger Syndrome",
+          "difficulty": "hard",
+          "question": "A 45-year-old woman with a long-standing, unrepaired ventricular septal defect (VSD) presents with progressive cyanosis, clubbing, and polycythemia. Which hemodynamic change has occurred to cause the shunt to reverse direction?",
+          "options": {
+            "A": "Decreased left ventricular pressure due to myocardial infarction",
+            "B": "Increased right ventricular pressure due to pulmonary arterial hypertension",
+            "C": "Decreased pulmonary vascular resistance due to vasodilation",
+            "D": "Increased left atrial pressure due to mitral stenosis",
+            "E": "Decreased systemic vascular resistance due to sepsis"
+          },
+          "correct_answer": "B",
+          "explanation": "Eisenmenger syndrome results from an uncorrected left-to-right shunt (VSD, ASD, PDA) that leads to pulmonary overcirculation, causing pathologic remodeling of the pulmonary vasculature and pulmonary arterial hypertension. Right ventricular hypertrophy occurs and eventually RV pressure exceeds LV pressure, reversing the shunt to right-to-left, causing late cyanosis. Options A, C, D, E are not the primary mechanism."
+        },
+        {
+          "id": "PA8",
+          "subtopic": "Coarctation of Aorta",
+          "difficulty": "medium",
+          "question": "A 15-year-old boy is found to have hypertension in the upper extremities but weak, delayed pulses in the lower extremities. Chest X-ray shows notching of the ribs. Which congenital condition is most commonly associated with this finding?",
+          "options": {
+            "A": "Bicuspid aortic valve",
+            "B": "Turner syndrome",
+            "C": "Marfan syndrome",
+            "D": "Williams syndrome",
+            "E": "22q11.2 deletion syndrome"
+          },
+          "correct_answer": "B",
+          "explanation": "Coarctation of the aorta is associated with Turner syndrome (45,XO) and also with bicuspid aortic valve. However, among the options, Turner syndrome is the chromosomal disorder most commonly associated with coarctation. Bicuspid aortic valve is also associated but is a valve anomaly, not a syndrome. Marfan syndrome is associated with aortic root dilation and dissection. Williams syndrome is associated with supravalvular aortic stenosis. 22q11 is associated with truncus arteriosus and tetralogy of Fallot."
+        },
+        {
+          "id": "PA9",
+          "subtopic": "Hypertension - Malignant",
+          "difficulty": "medium",
+          "question": "A 48-year-old man presents with severe headache, blurred vision, and blood pressure 220/130 mm Hg. Funduscopy shows flame hemorrhages, exudates, and papilledema. His serum creatinine is 4.5 mg/dL. Which of the following terms best describes this condition?",
+          "options": {
+            "A": "Hypertensive urgency",
+            "B": "Essential hypertension",
+            "C": "Malignant hypertension (hypertensive emergency)",
+            "D": "Secondary hypertension due to renal artery stenosis",
+            "E": "White coat hypertension"
+          },
+          "correct_answer": "C",
+          "explanation": "Hypertensive emergency (formerly malignant hypertension) is severe hypertension (BP ≥180/≥120) with evidence of acute end-organ damage, including retinopathy (hemorrhages, exudates, papilledema), encephalopathy, acute kidney injury, or cardiac complications. Hypertensive urgency lacks end-organ damage. Essential hypertension is chronic without acute damage. Secondary hypertension may be present but the term for acute severe with end-organ damage is hypertensive emergency."
+        },
+        {
+          "id": "PA10",
+          "subtopic": "Atherosclerosis - Complications",
+          "difficulty": "medium",
+          "question": "A 65-year-old man with a history of hyperlipidemia and smoking undergoes a carotid endarterectomy. The pathology specimen shows a fibrous plaque with a large lipid core and areas of calcification. Which of the following complications is most directly associated with calcification within an atheroma?",
+          "options": {
+            "A": "Plaque rupture",
+            "B": "Thrombosis",
+            "C": "Increased risk of embolization",
+            "D": "Correlation with risk of complications",
+            "E": "Aneurysm formation"
+          },
+          "correct_answer": "D",
+          "explanation": "Calcification in atherosclerotic plaques correlates with the risk of complications (e.g., myocardial infarction, stroke). It is a marker of advanced, unstable plaque. Plaque rupture, thrombosis, and embolization are complications but not directly caused by calcification; rather, calcification is a marker. Aneurysm formation is associated with medial degeneration, not primarily calcification."
+        },
+        {
+          "id": "PA11",
+          "subtopic": "Cholesterol Emboli Syndrome",
+          "difficulty": "hard",
+          "question": "A 70-year-old man underwent cardiac catheterization 5 days ago and now presents with painful toes, livedo reticularis on the lower extremities, and acute renal failure. His peripheral pulses are palpable. What is the most likely diagnosis?",
+          "options": {
+            "A": "Thromboangiitis obliterans",
+            "B": "Cholesterol emboli syndrome",
+            "C": "Deep vein thrombosis",
+            "D": "Acute arterial thrombosis",
+            "E": "Vasculitis"
+          },
+          "correct_answer": "B",
+          "explanation": "Cholesterol emboli syndrome occurs when cholesterol crystals dislodge from atherosclerotic plaques (often after vascular procedures like angiography). It causes small artery emboli and an inflammatory response. Findings include livedo reticularis, blue toe syndrome, acute renal failure, and pulses remain palpable because larger arteries are unaffected. Option A (Buerger disease) affects young smokers. Options C and D would cause pulse deficits or swelling. Option E may have systemic symptoms but less likely post-procedure."
+        },
+        {
+          "id": "PA12",
+          "subtopic": "Aortic Dissection - Stanford Classification",
+          "difficulty": "medium",
+          "question": "A 62-year-old man with uncontrolled hypertension presents with sudden-onset, tearing chest pain radiating to the back. CT angiography shows a dissection flap involving the ascending aorta and extending into the aortic arch. Which Stanford type is this, and what is the recommended treatment?",
+          "options": {
+            "A": "Type A, medical management with β-blockers and vasodilators",
+            "B": "Type A, surgical repair",
+            "C": "Type B, medical management",
+            "D": "Type B, surgical repair",
+            "E": "Type A, thrombolytics"
+          },
+          "correct_answer": "B",
+          "explanation": "Stanford type A dissections involve the ascending aorta (regardless of extension to arch or descending aorta). They often cause acute aortic regurgitation or cardiac tamponade and require surgical repair. Type B dissections (descending aorta only, below left subclavian) are initially managed medically with β-blockers and vasodilators. Thrombolytics are contraindicated in aortic dissection."
+        },
+        {
+          "id": "PA13",
+          "subtopic": "Subclavian Steal Syndrome",
+          "difficulty": "hard",
+          "question": "A 58-year-old smoker complains of dizziness and vertigo when using his left arm for vigorous activity. His blood pressure is 140/85 in the right arm and 110/70 in the left arm. Which of the following is the most likely underlying pathology?",
+          "options": {
+            "A": "Atherosclerotic stenosis of the left subclavian artery proximal to the vertebral artery origin",
+            "B": "Embolism from the left subclavian artery",
+            "C": "Takayasu arteritis affecting the left subclavian artery distally",
+            "D": "Aortic dissection extending into the left subclavian artery",
+            "E": "Fibromuscular dysplasia of the left subclavian artery"
+          },
+          "correct_answer": "A",
+          "explanation": "Subclavian steal syndrome is caused by stenosis of the subclavian artery proximal to the origin of the vertebral artery. During exercise of the ipsilateral arm, blood flow reverses in the vertebral artery to supply the arm (stealing from the posterior cerebral circulation), causing vertebrobasilar insufficiency (dizziness, vertigo). A systolic BP difference >15 mmHg between arms is typical. Atherosclerosis is the most common cause in older adults; Takayasu arteritis is a cause in younger patients but not most likely in a 58-year-old smoker."
+        },
+        {
+          "id": "PA14",
+          "subtopic": "Myocardial Infarction - Types",
+          "difficulty": "medium",
+          "question": "A 55-year-old man presents with chest pain at rest lasting 30 minutes. ECG shows ST-segment depression in leads V1-V4. Troponin I is elevated. Which type of myocardial infarction is this?",
+          "options": {
+            "A": "Stable angina",
+            "B": "Unstable angina",
+            "C": "NSTEMI",
+            "D": "STEMI",
+            "E": "Vasospastic angina"
+          },
+          "correct_answer": "C",
+          "explanation": "NSTEMI (non-ST-segment elevation myocardial infarction) is characterized by chest pain at rest, ST depression and/or T-wave inversion on ECG, and elevated cardiac biomarkers (troponin). STEMI would show ST elevation. Unstable angina has similar ECG changes but no biomarker elevation. Stable angina occurs with exertion and resolves with rest. Vasospastic angina (Prinzmetal) occurs at rest with transient ST elevation."
+        },
+        {
+          "id": "PA15",
+          "subtopic": "MI Complications - Papillary Muscle Rupture",
+          "difficulty": "hard",
+          "question": "A 68-year-old woman develops acute pulmonary edema and cardiogenic shock 5 days after an inferior wall ST-segment elevation myocardial infarction (STEMI). A harsh holosystolic murmur is heard at the apex radiating to the axilla. Which structure is most likely ruptured, and why is this particular structure more susceptible?",
+          "options": {
+            "A": "Anterolateral papillary muscle, because it has dual blood supply (LAD and LCX)",
+            "B": "Posteromedial papillary muscle, because it has single artery blood supply (PDA)",
+            "C": "Anterolateral papillary muscle, because it is perfused only by the LAD",
+            "D": "Posteromedial papillary muscle, because it has dual blood supply",
+            "E": "Chordae tendineae, because they are avascular"
+          },
+          "correct_answer": "B",
+          "explanation": "Posteromedial papillary muscle rupture is more common than anterolateral because the posteromedial papillary muscle has a single blood supply (usually from the PDA, often from RCA). The anterolateral papillary muscle has dual supply from LAD and LCX, making it less prone to ischemic rupture. The murmur is consistent with acute mitral regurgitation. Option A is less common. Options C and D are factually incorrect. Option E is not the most likely in this setting."
+        },
+        {
+          "id": "PA16",
+          "subtopic": "Cardiomyopathy - Dilated",
+          "difficulty": "medium",
+          "question": "A 32-year-old man presents with progressive dyspnea on exertion, orthopnea, and lower extremity edema. Echocardiography shows a dilated left ventricle with global hypokinesis and ejection fraction of 25%. Which of the following is the most common cause of this condition?",
+          "options": {
+            "A": "Hypertension",
+            "B": "Alcoholic cardiomyopathy",
+            "C": "Idiopathic",
+            "D": "Coxsackie B virus",
+            "E": "Doxorubicin toxicity"
+          },
+          "correct_answer": "C",
+          "explanation": "Dilated cardiomyopathy (DCM) is the most common cardiomyopathy (90% of cases). The majority of cases are idiopathic or familial (e.g., TTN gene mutations). Other etiologies include alcohol, cocaine, doxorubicin, coxsackie B, Chagas disease, ischemia, and peripartum. While alcohol and viral causes are important, idiopathic remains the most common. Hypertension typically causes hypertrophic cardiomyopathy, not dilated."
+        },
+        {
+          "id": "PA17",
+          "subtopic": "Hypertrophic Cardiomyopathy",
+          "difficulty": "hard",
+          "question": "A 16-year-old male athlete collapses during a football practice and is found to have a ventricular arrhythmia. Echocardiography reveals asymmetric septal hypertrophy with systolic anterior motion (SAM) of the mitral valve. Which medication should be avoided in this patient?",
+          "options": {
+            "A": "Beta-blocker",
+            "B": "Verapamil",
+            "C": "Disopyramide",
+            "D": "Nitroglycerin",
+            "E": "Amiodarone"
+          },
+          "correct_answer": "D",
+          "explanation": "In hypertrophic obstructive cardiomyopathy (HOCM), drugs that decrease preload (e.g., nitroglycerin, diuretics, ACE inhibitors) worsen the outflow obstruction and can cause syncope or hypotension. Beta-blockers, verapamil, and disopyramide are used to reduce obstruction. Amiodarone may be used for arrhythmias but not first-line. Nitrates are contraindicated."
+        },
+        {
+          "id": "PA18",
+          "subtopic": "Restrictive Cardiomyopathy",
+          "difficulty": "hard",
+          "question": "A 65-year-old man presents with heart failure and an ECG showing low voltage in the limb leads despite a thick left ventricular wall on echocardiography. Which infiltrative disease is most likely?",
+          "options": {
+            "A": "Sarcoidosis",
+            "B": "Hemochromatosis",
+            "C": "Amyloidosis",
+            "D": "Löffler endocarditis",
+            "E": "Endocardial fibroelastosis"
+          },
+          "correct_answer": "C",
+          "explanation": "Cardiac amyloidosis is a restrictive cardiomyopathy that often shows low-voltage ECG despite ventricular hypertrophy (due to amyloid infiltration). Sarcoidosis can cause conduction blocks and arrhythmias but not typically low voltage with hypertrophy. Hemochromatosis leads to dilated or restrictive but low voltage not characteristic. Löffler endocarditis (hypereosinophilic syndrome) causes endomyocardial fibrosis, not low voltage. Endocardial fibroelastosis occurs in children."
+        },
+        {
+          "id": "PA19",
+          "subtopic": "Cardiac Tamponade",
+          "difficulty": "medium",
+          "question": "A 60-year-old woman with metastatic breast cancer presents with hypotension, distended neck veins, and muffled heart sounds (Beck triad). Pulsus paradoxus is measured at 18 mmHg. Which of the following is the most appropriate immediate intervention?",
+          "options": {
+            "A": "Intravenous fluids",
+            "B": "Pericardiocentesis",
+            "C": "Dobutamine infusion",
+            "D": "Pericardial window surgery",
+            "E": "NSAIDs and colchicine"
+          },
+          "correct_answer": "B",
+          "explanation": "Beck triad (hypotension, JVD, muffled heart sounds) and pulsus paradoxus are classic for cardiac tamponade. Pericardiocentesis is the definitive diagnostic and therapeutic procedure. IV fluids are temporary to maintain preload but not definitive. Dobutamine may worsen hypotension by vasodilation. Pericardial window is surgical and not first-line. NSAIDs are for pericarditis, not tamponade."
+        },
+        {
+          "id": "PA20",
+          "subtopic": "Infective Endocarditis - Signs",
+          "difficulty": "medium",
+          "question": "A 45-year-old injection drug user presents with fever and a new regurgitant murmur. On physical examination, you note painful, raised, violaceous lesions on the pads of his fingers. What are these lesions called, and what is their underlying mechanism?",
+          "options": {
+            "A": "Janeway lesions, septic embolism",
+            "B": "Osler nodes, immune complex deposition",
+            "C": "Splinter hemorrhages, traumatic",
+            "D": "Roth spots, immune complex deposition",
+            "E": "Petechiae, vasculitis"
+          },
+          "correct_answer": "B",
+          "explanation": "Osler nodes are painful, violaceous, raised lesions on the finger or toe pads. They are an immunologic phenomenon (immune complex deposition) in infective endocarditis. Janeway lesions are painless, erythematous on palms/soles (septic emboli). Roth spots are retinal hemorrhages with pale centers. Splinter hemorrhages are linear nail-bed hemorrhages. Petechiae can occur from emboli or vasculitis."
+        },
+        {
+          "id": "PA21",
+          "subtopic": "Rheumatic Fever - Jones Criteria",
+          "difficulty": "medium",
+          "question": "A 10-year-old child presents with migratory polyarthritis, erythema marginatum, and a new cardiac murmur. Which of the following laboratory findings would support a diagnosis of acute rheumatic fever?",
+          "options": {
+            "A": "Elevated anti-streptolysin O (ASO) titer",
+            "B": "Positive blood culture for group A Streptococcus",
+            "C": "Low C3 complement levels",
+            "D": "Positive antinuclear antibody (ANA)",
+            "E": "Elevated rheumatoid factor"
+          },
+          "correct_answer": "A",
+          "explanation": "Acute rheumatic fever is a post-streptococcal immune-mediated complication. Elevated ASO titer or anti-DNase B titer indicates recent group A streptococcal infection (pharyngitis). Blood cultures are usually negative because the infection has resolved. Low C3 is seen in post-streptococcal glomerulonephritis, not rheumatic fever. ANA and RF are not typical."
+        },
+        {
+          "id": "PA22",
+          "subtopic": "Acute Pericarditis - ECG",
+          "difficulty": "medium",
+          "question": "A 35-year-old man presents with sharp, pleuritic chest pain that improves when he leans forward. ECG shows diffuse ST-segment elevation and PR depression. Which of the following is the most likely diagnosis?",
+          "options": {
+            "A": "Acute myocardial infarction",
+            "B": "Acute pericarditis",
+            "C": "Pulmonary embolism",
+            "D": "Aortic dissection",
+            "E": "Costochondritis"
+          },
+          "correct_answer": "B",
+          "explanation": "Acute pericarditis classically presents with sharp chest pain aggravated by inspiration and relieved by sitting up and leaning forward. ECG shows diffuse (widespread) ST elevation and PR depression. MI shows ST elevation in a localised territory with reciprocal changes. PE may show sinus tachycardia or right heart strain. Dissection presents with tearing pain. Costochondritis has no ECG changes."
+        },
+        {
+          "id": "PA23",
+          "subtopic": "Constrictive Pericarditis - Kussmaul Sign",
+          "difficulty": "hard",
+          "question": "A 52-year-old man with a history of tuberculosis presents with dyspnea, peripheral edema, and jugular venous distension. On inspiration, the jugular venous pressure increases paradoxically. What is this finding called, and what is its mechanism?",
+          "options": {
+            "A": "Pulsus paradoxus; due to decreased LV filling during inspiration",
+            "B": "Kussmaul sign; impaired right ventricular filling prevents accommodation of increased venous return",
+            "C": "Beck triad; due to pericardial effusion",
+            "D": "Pericardial knock; due to sudden cessation of ventricular filling",
+            "E": "Dressler syndrome; autoimmune pericarditis post-MI"
+          },
+          "correct_answer": "B",
+          "explanation": "Kussmaul sign is a paradoxical increase in JVP during inspiration (normally JVP decreases). It occurs in constrictive pericarditis, restrictive cardiomyopathy, and right heart failure because the right ventricle cannot accommodate the increased venous return during inspiration. Pulsus paradoxus is a fall in systolic BP >10 mmHg during inspiration. Beck triad is tamponade. Pericardial knock is an early diastolic sound in constrictive pericarditis. Dressler syndrome is post-MI pericarditis."
+        },
+        {
+          "id": "PA24",
+          "subtopic": "Myocarditis - Causes",
+          "difficulty": "hard",
+          "question": "A 25-year-old man presents with fever, chest pain, and a persistent tachycardia out of proportion to his fever. He recently had an upper respiratory infection. Endomyocardial biopsy shows lymphocytic infiltrate with focal necrosis. Which of the following is the most likely causative agent?",
+          "options": {
+            "A": "Trypanosoma cruzi",
+            "B": "Coxsackie B virus",
+            "C": "Borrelia burgdorferi",
+            "D": "Corynebacterium diphtheriae",
+            "E": "Toxoplasma gondii"
+          },
+          "correct_answer": "B",
+          "explanation": "Lymphocytic infiltrate with focal necrosis is highly indicative of viral myocarditis. Coxsackie B virus is a common cause of acute viral myocarditis. Trypanosoma cruzi (Chagas disease) causes chronic myocarditis with different histology. Borrelia (Lyme) can cause myocarditis but less common. Diphtheria toxin causes myocarditis but is rare. Toxoplasma causes myocarditis in immunocompromised."
+        },
+        {
+          "id": "PA25",
+          "subtopic": "Cardiac Tumors - Myxoma",
+          "difficulty": "medium",
+          "question": "A 55-year-old woman presents with syncopal episodes, fever, and weight loss. A diastolic 'tumor plop' sound is heard on auscultation. Echocardiography reveals a pedunculated mass in the left atrium. What is the most common primary cardiac tumor in adults?",
+          "options": {
+            "A": "Rhabdomyoma",
+            "B": "Myxoma",
+            "C": "Lipoma",
+            "D": "Fibroma",
+            "E": "Papillary fibroelastoma"
+          },
+          "correct_answer": "B",
+          "explanation": "Myxoma is the most common primary cardiac tumor in adults (90% occur in atria, mostly left atrium). It can cause 'ball valve' obstruction, syncope, constitutional symptoms (fever, weight loss due to IL-6 production), and a 'tumor plop' sound. Rhabdomyoma is the most common primary cardiac tumor in children (associated with tuberous sclerosis)."
+        }
+      ]
+    },
+    {
+      "name": "Pharmacology",
+      "questions": [
+        {
+          "id": "PH1",
+          "subtopic": "Nitrates",
+          "difficulty": "medium",
+          "question": "A 65-year-old man with stable angina presents to the emergency department with chest pain. He reports taking sildenafil for erectile dysfunction 12 hours ago. Which of the following antianginal medications is contraindicated in this patient?",
+          "options": {
+            "A": "Metoprolol",
+            "B": "Nitroglycerin",
+            "C": "Amlodipine",
+            "D": "Ranolazine",
+            "E": "Aspirin"
+          },
+          "correct_answer": "B",
+          "explanation": "Nitroglycerin and other nitrates are contraindicated within 24-48 hours of PDE-5 inhibitor use (sildenafil, tadalafil, vardenafil) because both increase cGMP, leading to severe hypotension. Beta-blockers, calcium channel blockers, ranolazine, and aspirin are not contraindicated with PDE-5 inhibitors in this manner."
+        },
+        {
+          "id": "PH2",
+          "subtopic": "Ranolazine",
+          "difficulty": "medium",
+          "question": "A patient with chronic stable angina continues to have symptoms despite maximum doses of a beta-blocker and a calcium channel blocker. The cardiologist adds ranolazine. What is the primary mechanism of action of ranolazine?",
+          "options": {
+            "A": "Nitrate-like venodilation",
+            "B": "Beta-1 receptor blockade",
+            "C": "Inhibition of late sodium current in cardiac myocytes",
+            "D": "Calcium channel blockade",
+            "E": "Prostaglandin synthesis inhibition"
+          },
+          "correct_answer": "C",
+          "explanation": "Ranolazine inhibits the late phase of inward sodium current, which reduces diastolic wall tension and oxygen consumption without affecting heart rate or blood pressure. It is not a nitrate, beta-blocker, calcium channel blocker, or NSAID."
+        },
+        {
+          "id": "PH3",
+          "subtopic": "Sacubitril",
+          "difficulty": "hard",
+          "question": "A 68-year-old man with heart failure with reduced ejection fraction (HFrEF) is started on sacubitril/valsartan. Which of the following adverse effects is most concerning if the patient is also taking an ACE inhibitor?",
+          "options": {
+            "A": "Hyperkalemia",
+            "B": "Cough",
+            "C": "Angioedema",
+            "D": "Hypotension",
+            "E": "Renal failure"
+          },
+          "correct_answer": "C",
+          "explanation": "Sacubitril is a neprilysin inhibitor that prevents degradation of bradykinin. When combined with an ACE inhibitor (which also increases bradykinin), the risk of angioedema is significantly increased. Therefore, sacubitril/valsartan must be started at least 36 hours after the last dose of ACE inhibitor. Hyperkalemia and hypotension can occur but are not unique to the combination with ACE inhibitors."
+        },
+        {
+          "id": "PH4",
+          "subtopic": "Statins",
+          "difficulty": "medium",
+          "question": "A 55-year-old man with hyperlipidemia is prescribed atorvastatin. He returns with myalgias and elevated creatine kinase (CK). Which of the following is the mechanism of action of statins?",
+          "options": {
+            "A": "Inhibition of HMG-CoA reductase",
+            "B": "Activation of PPAR-α",
+            "C": "Inhibition of cholesterol absorption in the small intestine",
+            "D": "Bile acid binding and sequestration",
+            "E": "PCSK9 inhibition"
+          },
+          "correct_answer": "A",
+          "explanation": "Statins inhibit HMG-CoA reductase, the rate-limiting enzyme in cholesterol synthesis. This reduces intrahepatic cholesterol, leading to upregulation of LDL receptors and increased LDL catabolism. Fibrates activate PPAR-α. Ezetimibe inhibits cholesterol absorption. Bile acid resins bind bile acids. PCSK9 inhibitors prevent LDL receptor degradation."
+        },
+        {
+          "id": "PH5",
+          "subtopic": "Fibrates and Statin Interaction",
+          "difficulty": "hard",
+          "question": "A patient with mixed hyperlipidemia is taking gemfibrozil and simvastatin. He develops rhabdomyolysis. Which of the following best explains the increased risk of myopathy with this combination?",
+          "options": {
+            "A": "Gemfibrozil increases statin absorption",
+            "B": "Gemfibrozil inhibits statin metabolism via glucuronidation interference",
+            "C": "Gemfibrozil activates PPAR-γ leading to muscle toxicity",
+            "D": "Simvastatin increases gemfibrozil levels",
+            "E": "Additive effect on HMG-CoA reductase inhibition"
+          },
+          "correct_answer": "B",
+          "explanation": "Gemfibrozil (a fibrate) inhibits the glucuronidation of statins, particularly simvastatin, leading to increased statin plasma levels and myopathy risk. Fenofibrate has a lower risk of interaction. Option A is not the primary mechanism. Option C is incorrect; fibrates activate PPAR-α. Option D is not the main interaction. Option E is too simplistic."
+        },
+        {
+          "id": "PH6",
+          "subtopic": "Niacin Adverse Effects",
+          "difficulty": "medium",
+          "question": "A 50-year-old man with low HDL and high triglycerides is started on niacin. He complains of facial flushing. Which of the following can be used to reduce this side effect?",
+          "options": {
+            "A": "Beta-blockers",
+            "B": "ACE inhibitors",
+            "C": "Aspirin or NSAIDs",
+            "D": "Fibrates",
+            "E": "Antihistamines"
+          },
+          "correct_answer": "C",
+          "explanation": "Niacin-induced flushing is mediated by prostaglandins (specifically PGD2). Aspirin or NSAIDs taken 30 minutes before niacin can reduce flushing by inhibiting cyclooxygenase. Tolerance also develops over time. Beta-blockers, ACE inhibitors, fibrates, and antihistamines are not effective for this specific side effect."
+        },
+        {
+          "id": "PH7",
+          "subtopic": "Digoxin Adverse Effects and Antidote",
+          "difficulty": "hard",
+          "question": "A 72-year-old woman with atrial fibrillation and chronic kidney disease presents with nausea, vomiting, and yellow-tinted vision. ECG shows atrial tachycardia with AV block. Her serum potassium is 5.9 mEq/L. Which of the following is the most appropriate treatment for this toxicity?",
+          "options": {
+            "A": "Intravenous calcium gluconate",
+            "B": "Digoxin immune Fab fragments",
+            "C": "Hemodialysis",
+            "D": "Magnesium sulfate",
+            "E": "Lidocaine"
+          },
+          "correct_answer": "B",
+          "explanation": "Digoxin toxicity is suggested by GI symptoms, vision changes (yellow), and arrhythmias (atrial tachycardia with AV block). Hyperkalemia indicates poor prognosis. Digoxin immune Fab fragments are the specific antidote. Calcium is contraindicated in digoxin toxicity (can cause malignant arrhythmias). Hemodialysis does not effectively remove digoxin. Magnesium is used for torsades. Lidocaine may treat ventricular arrhythmias but not the toxicity itself."
+        },
+        {
+          "id": "PH8",
+          "subtopic": "Class IA Antiarrhythmics - Procainamide",
+          "difficulty": "medium",
+          "question": "A 45-year-old woman on procainamide for ventricular arrhythmia develops arthralgias, rash, and positive antinuclear antibodies (ANA). Which of the following best describes this adverse effect?",
+          "options": {
+            "A": "Cinchonism",
+            "B": "Reversible lupus-like syndrome",
+            "C": "Thyroid dysfunction",
+            "D": "Pulmonary fibrosis",
+            "E": "Corneal deposits"
+          },
+          "correct_answer": "B",
+          "explanation": "Procainamide can cause a drug-induced lupus erythematosus (reversible lupus-like syndrome) with arthralgias, serositis, and positive ANA (anti-histone antibodies). Cinchonism (headache, tinnitus) is associated with quinidine. Thyroid dysfunction and pulmonary fibrosis are associated with amiodarone. Corneal deposits occur with amiodarone."
+        },
+        {
+          "id": "PH9",
+          "subtopic": "Class IB Antiarrhythmics - Lidocaine",
+          "difficulty": "medium",
+          "question": "A 60-year-old man has a ventricular tachycardia 6 hours after an acute myocardial infarction. Which antiarrhythmic is most appropriate for acute treatment of post-MI ventricular arrhythmias?",
+          "options": {
+            "A": "Procainamide",
+            "B": "Amiodarone",
+            "C": "Lidocaine",
+            "D": "Verapamil",
+            "E": "Adenosine"
+          },
+          "correct_answer": "C",
+          "explanation": "Lidocaine (class IB) is preferentially used for acute ventricular arrhythmias, especially post-MI and digitalis-induced arrhythmias. It works best on ischemic or depolarized Purkinje fibers. Amiodarone is also used but lidocaine is a classic first-line for acute post-MI VT. Procainamide can be used but not first-line. Verapamil and adenosine are for supraventricular arrhythmias."
+        },
+        {
+          "id": "PH10",
+          "subtopic": "Amiodarone Adverse Effects",
+          "difficulty": "hard",
+          "question": "A 70-year-old man with atrial fibrillation has been on amiodarone for 2 years. He presents with dyspnea and a dry cough. Pulmonary function tests show reduced diffusion capacity. Which of the following adverse effects of amiodarone is most likely?",
+          "options": {
+            "A": "Thyrotoxicosis",
+            "B": "Pulmonary fibrosis",
+            "C": "Corneal microdeposits",
+            "D": "Blue-gray skin discoloration",
+            "E": "Peripheral neuropathy"
+          },
+          "correct_answer": "B",
+          "explanation": "Amiodarone causes pulmonary fibrosis (interstitial lung disease) as a serious adverse effect, especially with long-term use. The presentation includes dyspnea, cough, and reduced DLCO. Amiodarone also causes hypothyroidism or hyperthyroidism (40% iodine by weight), corneal deposits, blue-gray skin, and neurologic effects, but pulmonary fibrosis is the most life-threatening respiratory complication."
+        },
+        {
+          "id": "PH11",
+          "subtopic": "Adenosine",
+          "difficulty": "medium",
+          "question": "A 30-year-old woman presents with sudden-onset palpitations, lightheadedness, and a narrow-complex tachycardia at 200 bpm. Vagal maneuvers are unsuccessful. Which of the following medications is most appropriate for acute termination, and what is its mechanism?",
+          "options": {
+            "A": "Verapamil; L-type calcium channel blockade",
+            "B": "Adenosine; increases K+ efflux, hyperpolarizing AV node cells",
+            "C": "Adenosine; increases Na+ influx, depolarizing AV node",
+            "D": "Digoxin; increases vagal tone",
+            "E": "Lidocaine; sodium channel blockade"
+          },
+          "correct_answer": "B",
+          "explanation": "Adenosine is the drug of choice for diagnosing and terminating stable supraventricular tachycardia (SVT) involving the AV node. It increases K+ efflux, causing hyperpolarization and decreased AV node conduction. It has a very short half-life (~15 seconds). Verapamil may also be used but is second-line. Digoxin is not for acute termination. Lidocaine is for ventricular arrhythmias."
+        },
+        {
+          "id": "PH12",
+          "subtopic": "Ivabradine",
+          "difficulty": "hard",
+          "question": "A patient with chronic heart failure with reduced ejection fraction (HFrEF) is on maximally tolerated beta-blockers but still has a heart rate of 85 bpm. Ivabradine is added. Which channel does ivabradine inhibit, and what is its effect on the cardiac action potential?",
+          "options": {
+            "A": "L-type calcium channels (phase 2)",
+            "B": "If ('funny') sodium channels in pacemaker cells (phase 4)",
+            "C": "Delayed rectifier potassium channels (phase 3)",
+            "D": "Fast sodium channels (phase 0)",
+            "E": "T-type calcium channels"
+          },
+          "correct_answer": "B",
+          "explanation": "Ivabradine selectively inhibits the If ('funny') current in sinoatrial node pacemaker cells, slowing diastolic depolarization (phase 4) and reducing heart rate without affecting contractility or blood pressure. It is used in chronic HFrEF when heart rate remains elevated despite beta-blockers."
+        }
+      ]
+    }
+  ]
+}
